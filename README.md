@@ -5,8 +5,7 @@
 
 - 언어/프레임워크: Python, TensorFlow(Keras), Matplotlib
 - 실행 환경: Google Colab
-
-## 폴더 구조
+- Claude는 정리 github 정리요소로 사용, 코드 작성에는 미사용함.
 
 ```
 src/
